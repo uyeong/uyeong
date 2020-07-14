@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/uyeong/uyeong/master/cover.jpg)
+![](https://raw.githubusercontent.com/uyeong/uyeong/master/cover.png)
 
 ### Hi there 👋
 

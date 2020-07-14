@@ -4,7 +4,7 @@
 
 - I'm front-end engineer.
 - I’m currently working on NAVER WEBTOON Corp.
-- Recently I made [SeriesOnWebPlayer](https://serieson.naver.com/movie/detail.nhn?productNo=1710170).
+- Recently I made [SeriesOnWebPlayer](https://serieson.naver.com/movie/detail.nhn?productNo=1710170)(desktop).
 
 ### Connect Me
 

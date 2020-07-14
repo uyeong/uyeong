@@ -1,4 +1,15 @@
+![](https://raw.githubusercontent.com/uyeong/uyeong/master/cover.jpg)
+
 ### Hi there 👋
+
+- I'm front-end engineer.
+- I’m currently working on NAVER WEBTOON Corp.
+- Recently I made [SeriesOnWebPlayer](https://serieson.naver.com/movie/detail.nhn?productNo=1710170).
+
+### Connect Me
+
+- facebook.com/coderifleman
+- instagram.com/uyeong21c
 
 <!--
 **uyeong/uyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,13 +3,18 @@
 ### Hi there 👋
 
 - I'm front-end engineer.
-- I’m currently working on NAVER WEBTOON Corp.
-- Recently I made [SeriesOnWebPlayer](https://serieson.naver.com/movie/detail.nhn?productNo=1710170)(desktop).
+- I’m currently working on [flex team](https://flex.team/).
+- Recently I made [Insight of flex](https://flex.team/features/team-insight/).
 
 ### Connect Me
 
 - facebook.com/coderifleman
 - instagram.com/uyeong21c
+
+### Presentations
+
+- [Slideshare](https://www2.slideshare.net/UyeongJu/presentations)
+- [Speaker Deck](https://speakerdeck.com/uyeong)
 
 <!--
 **uyeong/uyeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

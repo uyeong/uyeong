@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 - I'm front-end engineer.
-- I’m currently working on [flex team](https://flex.team/).
-- Recently I made [Insight of flex](https://flex.team/features/team-insight/).
+- I’m currently working on [NAVER WEBTOON corp](https://webtoonscorp.com/en/).
+- I'm currently migrating the [Series](https://series.naver.com/comic/home.series) service to Next.js
 
 ### Connect Me
 

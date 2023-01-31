@@ -4,7 +4,7 @@
 
 - I'm front-end engineer.
 - I’m currently working on [NAVER WEBTOON corp](https://webtoonscorp.com/en/).
-- I'm currently migrating the [Series](https://series.naver.com/comic/home.series) service to Next.js
+- I'm currently migrating the [SeriesOn](https://serieson.naver.com) service to Next.js
 
 ### Connect Me
 
